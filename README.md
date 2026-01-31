@@ -1,7 +1,7 @@
 <<<<<<< HEAD
-# Portfolio React App
+# Portfolio Template
 
-A modern, responsive portfolio website built with React, Framer Motion, and Lucide React icons. The app features smooth animations, parallax effects, and a modular component architecture.
+A modern, responsive portfolio template built with React, Framer Motion, and Lucide React icons. The app features smooth animations, parallax effects, and a modular component architecture.
 
 ## 🏗️ Project Structure
 
